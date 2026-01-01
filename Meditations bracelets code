@@ -55,6 +55,7 @@
       "Begin the morning by saying to thyself, I shall meet with busybody, the ungrateful, arrogant, deceitful.",
       "Do every act of your life as though it were the very last act of your life.",
       "Choose not to be harmed — and you won’t feel harmed. Don’t feel harmed — and you haven’t been."
+      "
     ];
 
     const randomIndex = Math.floor(Math.random() * quotes.length);
